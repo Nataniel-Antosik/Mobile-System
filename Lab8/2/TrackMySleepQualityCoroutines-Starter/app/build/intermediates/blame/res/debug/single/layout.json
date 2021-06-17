@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Nataniel Antosik\\AndroidStudioProjects\\Git\\Lab8\\2\\TrackMySleepQualityCoroutines-Starter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_sleep_quality.xml",
+        "source": "C:\\Users\\Nataniel Antosik\\AndroidStudioProjects\\Git\\Lab8\\2\\TrackMySleepQualityCoroutines-Starter\\app\\src\\main\\res\\layout\\fragment_sleep_quality.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nataniel Antosik\\AndroidStudioProjects\\Git\\Lab8\\2\\TrackMySleepQualityCoroutines-Starter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_sleep_tracker.xml",
+        "source": "C:\\Users\\Nataniel Antosik\\AndroidStudioProjects\\Git\\Lab8\\2\\TrackMySleepQualityCoroutines-Starter\\app\\src\\main\\res\\layout\\fragment_sleep_tracker.xml"
+    }
+]

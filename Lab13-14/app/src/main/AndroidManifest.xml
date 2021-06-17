@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.lab11_12">
+
+    <uses-permission android:name="android.permission.INTERNET"/> <!--Jest to potrzebne aby mieć dostęp do internetu-->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/> <!--Odpowiada za określenie lokalizacji urządzenia, dzięki temu uzyskamy również SSID-->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/> <!--Lokalizacja sieciowa-->
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE"/> <!--Aby aplikacja mogła działać w tle-->
+    
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Lab1112">
+        <activity android:name=".ShowListActivity"></activity> <!--Aktywność do pokazywania danych z bazy danych-->
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <service android:name=".MyService"/> <!---Serwis aby aplikacja mogła działać w tle i nadal pobierać dane lokalizacyjne oraz dodawać je do bazy-->
+    </application>
+</manifest>

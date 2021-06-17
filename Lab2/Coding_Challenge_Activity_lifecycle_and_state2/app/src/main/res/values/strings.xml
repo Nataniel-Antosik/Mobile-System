@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Coding_Challenge_Activity_lifecycle_and_state</string>
+    <string name="add_item">Add Item</string>
+    <string name="rice">Rice</string>
+    <string name="cheese">Cheese</string>
+    <string name="egg">Egg</string>
+    <string name="fish">Fish</string>
+    <string name="butter">Butter</string>
+    <string name="banana">Banana</string>
+    <string name="bread">Bread</string>
+    <string name="apple">Apple</string>
+    <string name="Enter_Address">Enter the address of the store</string>
+</resources>

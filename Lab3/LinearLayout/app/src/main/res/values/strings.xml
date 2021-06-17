@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Nataniel Antosik</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hi, my name is Nataniel
+    \nLorem Ipsum is simply dummy text of the printing and typesetting
+    \nindustry. Lorem Ipsum has been the industry is standard dummy
+    \ntext ever since the 1500s, when an unknown printer took a galley
+    \nof type and scrambled it to make a type specimen book.
+    \n\nIt has survived not only five centuries, but also the leap into electronic
+    \ntypesetting, remaining essentially unchanged.
+    \nIt was popularised in the 1960s with the release of Letraset sheets
+    \ncontaining Lorem Ipsum passages,\n
+    \nLorem Ipsum is simply dummy text of the printing and typesetting
+    \nindustry. Lorem Ipsum has been the industry is standard dummy
+    \ntext ever since the 1500s, when an unknown printer took a galley
+    \nof type and scrambled it to make a type specimen book.\n</string>
+
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
