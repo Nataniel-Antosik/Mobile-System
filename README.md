@@ -6,3 +6,4 @@ Project is created with:
 * Kotlin
 * XML
 * Android Studio
+* Python
